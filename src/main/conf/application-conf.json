@@ -1,0 +1,7 @@
+{
+  "http.port" : 1988,
+  "url": "jdbc:mysql://localhost:3306/auction",
+  "driver_class": "com.mysql.jdbc.Driver",
+  "user": "root",
+  "password": "password"
+}
